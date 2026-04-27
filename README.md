@@ -112,6 +112,13 @@ java --module-path /path/to/javafx/lib --add-modules javafx.controls,javafx.fxml
 
 > ℹ️ Le projet a été développé et testé sous **Eclipse** avec JavaFX configuré via le build path du projet.
 
+## 📸 Aperçu de l'application
+
+### Fenêtre Pizzaiolo — Gestion du restaurant
+![Fenêtre Pizzaiolo](screenshots/pizzaiolo.png)
+
+### Fenêtre Client — Espace client
+![Fenêtre Client](screenshots/client.png)
 ---
 
 ## 🧪 Tests unitaires
